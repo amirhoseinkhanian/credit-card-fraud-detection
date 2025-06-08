@@ -1,0 +1,24 @@
+ 
+Python cache files
+
+pycache/ *.py[cod] *$py.class
+
+Virtual environment
+
+bank/
+
+Dataset
+
+data/creditcard.csv
+
+Jupyter notebook checkpoints
+
+notebooks/.ipynb_checkpoints/
+
+Results (optional, if you want to exclude generated results)
+
+results/
+
+Other common ignores
+
+*.log .DS_Store .idea/ .vscode/ *.swp
